@@ -1,4 +1,4 @@
-export class MRTX{
+export default class MRTX{
     txt;
     constructor(inp){
         this.txt = inp;
